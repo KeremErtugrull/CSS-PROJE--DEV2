@@ -1,2 +1,2 @@
-# CSS-PROJE--DEV2
+# CSS-PROJE-ODEV2
 https://app.patika.dev/akerem
